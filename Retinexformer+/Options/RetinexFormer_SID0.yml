@@ -114,7 +114,7 @@ train:
     type: PCLoss
     loss_weight: 1
     reduction: mean
-
+    
 # validation settings
 val:
   window_size: 4
