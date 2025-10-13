@@ -1,6 +1,6 @@
 # Rethinking Frequency-Phase Mismatch as Structural Displacement: Phase Consistency Constraint for Low-Light Restoration (PCL)
 
-The main code is available, you can see the ```basicsr.models.losses```. For the loss functions of different models, you can directly replace their loss functions with our PCL. Please refer to the experimental section of the paper.
+The main code is available, you can see the ```basicsr.models.losses.PCLoss```. For the loss functions of different models, you can directly replace their loss functions with our PCL. Please refer to the experimental section of the paper.
 
 > **Abstract:** *Low-light image restoration (LLIR) aims to recover structural and visual fidelity from underexposed images, which is essential for robust perception in downstream vision tasks. Existing methods primarily enhance amplitude (e.g., brightness), but often overlook phase information, which plays a critical role in preserving structural consistency. This paper rethinks the low-light restoration problem by addressing the frequency-phase mismatch, modeling phase misalignment as structural displacement. Through theoretical derivations and controlled visual experiments, we demonstrate that inaccurate phase reconstruction, even with correct amplitude, results in degraded structural alignment. 
 To address this, we propose a novel Phase Consistency Constraint (PCC), formulated as Phase Congruence Loss (PCL), which enforces structure-aware phase alignment in the Fourier domain.
