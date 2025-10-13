@@ -203,12 +203,8 @@ MIT-Adobe FiveK [Baidu Disk](https://pan.baidu.com/s/1ajax7N9JmttTwY84-8URxA?pwd
 </details>
 
 We also provide download links for LIME, NPE, MEF, DICM, and VV datasets that have no ground truth:
-
-[Baidu Disk](https://pan.baidu.com/s/1oHg03tOfWWLp4q1R6rlzww?pwd=cyh2) (code: `cyh2`)
- or [Google Drive](https://drive.google.com/drive/folders/1RR50EJYGIHaUYwq4NtK7dx8faMSvX8Xp?usp=drive_link)
-
-&nbsp;                    
-
+[Google Drive](https://drive.google.com/drive/folders/1RR50EJYGIHaUYwq4NtK7dx8faMSvX8Xp?usp=drive_link)
+&nbsp;
 
 ## 3. Testing
 
