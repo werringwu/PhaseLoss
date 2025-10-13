@@ -1,6 +1,4 @@
-# PCL
-
-The main code is available, you can see the ```basicsr.models.losses.PCLoss```. For the loss functions of different models, you can directly replace their loss functions with our PCL. Please refer to the experimental section of the paper.
+The main code is available, you can see the ```basicsr.models.losses.PCLoss```. For the loss functions of different models, you can directly replace their loss functions with our loss. Please refer to the experimental section of the paper.
 
 ## 1. Create Environment
 
